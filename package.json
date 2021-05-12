@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fast-xml-parser": "^3.19.0",
+    "form-urlencoded": "^6.0.0",
+    "sslkeylog": "^0.2.2",
+    "zlib": "^1.0.5"
+  }
+}
